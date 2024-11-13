@@ -1,12 +1,98 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Mr. Sander\\Documents\\corretora-voce-mais-rico\\Corretora-Voce-Mais-Rico\\",
+<<<<<<< Updated upstream
   "Documents": [],
+=======
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53A53B43-18AB-46A7-A1FC-1010F7AC3FD8}|Corretora-Voce-Mais-Rico.csproj|c:\\users\\mr. sander\\documents\\corretora-voce-mais-rico\\corretora-voce-mais-rico\\areacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53A53B43-18AB-46A7-A1FC-1010F7AC3FD8}|Corretora-Voce-Mais-Rico.csproj|solutionrelative:areacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A53B43-18AB-46A7-A1FC-1010F7AC3FD8}|Corretora-Voce-Mais-Rico.csproj|c:\\users\\mr. sander\\documents\\corretora-voce-mais-rico\\corretora-voce-mais-rico\\areacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A53B43-18AB-46A7-A1FC-1010F7AC3FD8}|Corretora-Voce-Mais-Rico.csproj|solutionrelative:areacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A53B43-18AB-46A7-A1FC-1010F7AC3FD8}|Corretora-Voce-Mais-Rico.csproj|c:\\users\\mr. sander\\documents\\corretora-voce-mais-rico\\corretora-voce-mais-rico\\areacorretora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53A53B43-18AB-46A7-A1FC-1010F7AC3FD8}|Corretora-Voce-Mais-Rico.csproj|solutionrelative:areacorretora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A53B43-18AB-46A7-A1FC-1010F7AC3FD8}|Corretora-Voce-Mais-Rico.csproj|c:\\users\\mr. sander\\documents\\corretora-voce-mais-rico\\corretora-voce-mais-rico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A53B43-18AB-46A7-A1FC-1010F7AC3FD8}|Corretora-Voce-Mais-Rico.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+>>>>>>> Stashed changes
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< Updated upstream
       "DocumentGroups": []
+=======
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AreaCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. Sander\\Documents\\corretora-voce-mais-rico\\Corretora-Voce-Mais-Rico\\AreaCliente.cs",
+              "RelativeDocumentMoniker": "AreaCliente.cs",
+              "ToolTip": "C:\\Users\\Mr. Sander\\Documents\\corretora-voce-mais-rico\\Corretora-Voce-Mais-Rico\\AreaCliente.cs",
+              "RelativeToolTip": "AreaCliente.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:19:31.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AreaCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mr. Sander\\Documents\\corretora-voce-mais-rico\\Corretora-Voce-Mais-Rico\\AreaCliente.cs",
+              "RelativeDocumentMoniker": "AreaCliente.cs",
+              "ToolTip": "C:\\Users\\Mr. Sander\\Documents\\corretora-voce-mais-rico\\Corretora-Voce-Mais-Rico\\AreaCliente.cs [Design]",
+              "RelativeToolTip": "AreaCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:14:41.76Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AreaCorretora.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mr. Sander\\Documents\\corretora-voce-mais-rico\\Corretora-Voce-Mais-Rico\\AreaCorretora.cs",
+              "RelativeDocumentMoniker": "AreaCorretora.cs",
+              "ToolTip": "C:\\Users\\Mr. Sander\\Documents\\corretora-voce-mais-rico\\Corretora-Voce-Mais-Rico\\AreaCorretora.cs [Design]",
+              "RelativeToolTip": "AreaCorretora.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:13:54.983Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr. Sander\\Documents\\corretora-voce-mais-rico\\Corretora-Voce-Mais-Rico\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mr. Sander\\Documents\\corretora-voce-mais-rico\\Corretora-Voce-Mais-Rico\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:56:17.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+>>>>>>> Stashed changes
     }
   ]
 }

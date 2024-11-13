@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Corretora_Voce_Mais_Rico
 {
-    public partial class Form1 : Form
+    public partial class TelaInicial : Form
     {
-        public Form1()
+        public TelaInicial()
         {
             InitializeComponent();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            new AreaCorretora();
         }
     }
 }

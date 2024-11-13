@@ -1,0 +1,11 @@
+C:\Users\Mr. Sander\Documents\corretora-voce-mais-rico\Corretora-Voce-Mais-Rico\bin\Debug\Corretora-Voce-Mais-Rico.exe.config
+C:\Users\Mr. Sander\Documents\corretora-voce-mais-rico\Corretora-Voce-Mais-Rico\bin\Debug\Corretora-Voce-Mais-Rico.exe
+C:\Users\Mr. Sander\Documents\corretora-voce-mais-rico\Corretora-Voce-Mais-Rico\bin\Debug\Corretora-Voce-Mais-Rico.pdb
+C:\Users\Mr. Sander\Documents\corretora-voce-mais-rico\Corretora-Voce-Mais-Rico\obj\Debug\Corretora-Voce-Mais-Rico.csproj.AssemblyReference.cache
+C:\Users\Mr. Sander\Documents\corretora-voce-mais-rico\Corretora-Voce-Mais-Rico\obj\Debug\Corretora_Voce_Mais_Rico.GerenciadorCorretora.resources
+C:\Users\Mr. Sander\Documents\corretora-voce-mais-rico\Corretora-Voce-Mais-Rico\obj\Debug\Corretora_Voce_Mais_Rico.Properties.Resources.resources
+C:\Users\Mr. Sander\Documents\corretora-voce-mais-rico\Corretora-Voce-Mais-Rico\obj\Debug\Corretora-Voce-Mais-Rico.csproj.GenerateResource.cache
+C:\Users\Mr. Sander\Documents\corretora-voce-mais-rico\Corretora-Voce-Mais-Rico\obj\Debug\Corretora-Voce-Mais-Rico.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Sander\Documents\corretora-voce-mais-rico\Corretora-Voce-Mais-Rico\obj\Debug\Corretora-Voce-Mais-Rico.exe
+C:\Users\Mr. Sander\Documents\corretora-voce-mais-rico\Corretora-Voce-Mais-Rico\obj\Debug\Corretora-Voce-Mais-Rico.pdb
+C:\Users\Mr. Sander\Documents\corretora-voce-mais-rico\Corretora-Voce-Mais-Rico\obj\Debug\Corretora_Voce_Mais_Rico.TelaInicial.resources
